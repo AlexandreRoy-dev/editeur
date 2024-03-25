@@ -1,0 +1,15 @@
+.editor {
+   margin-left: 25%;
+   margin-right: 25%;
+}
+trix-editor{
+    height: 80vh;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
